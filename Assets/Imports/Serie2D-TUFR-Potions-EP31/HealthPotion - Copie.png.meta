@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HealthPotion - Copie_0: 2484484009840835756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
