@@ -1,8 +1,36 @@
+
+
+
+# Unity generated folders (ne pas pousser)
 [Ll]ibrary/
 [Tt]emp/
-[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Oo]bj/
 [Ll]ogs/
-UserSettings/
 MemoryCaptures/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / IDE files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity asset packages
+*.unitypackage
+
+# OS generated files
+.DS_Store
+Thumbs.db
