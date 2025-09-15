@@ -1,4 +1,4 @@
-# 🎮 Jeu Unity – Plateforme avec niveaux et boutique
+# 🎮 Jeu Unity – Plateforme avec niveaux et boutique de bonus
 
 ---
 
